@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 #Integrantes del grupo:
+
 EDER ALEJANDRO SAVILLON REYES, 0801199802421
 
 ERICK JOSUE PINEDA MURILLO, 1601199900180
